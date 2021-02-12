@@ -1,5 +1,5 @@
 {
-    "name": "gilek/php-decimal-phpstan-extension",
+    "name": "kejwmen/php-decimal-phpstan-extension",
     "type": "phpstan-extension",
     "license": "MIT",
     "description": "Adds support for overloaded operators",
